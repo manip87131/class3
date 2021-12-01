@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 this is mani linux
-=======
 this is mani desktop
->>>>>>> 026571652c77e234a63e0c7b504b571ee309a77c
+
